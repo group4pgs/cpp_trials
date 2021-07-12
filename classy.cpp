@@ -3,11 +3,11 @@ using namespace std;
 
 class group
 {
-public:
+
 	int id;
 	char ch;
 	float progress;
-	
+public:
 	void assign_new(int i, char c, float p)
 	{
 		id = i;
